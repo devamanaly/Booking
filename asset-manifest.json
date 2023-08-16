@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/devamanaly/Booking/static/css/main.b563514d.css",
+    "main.js": "/devamanaly/Booking/static/js/main.fef18b46.js",
+    "static/media/Rectangle 32.png": "/devamanaly/Booking/static/media/Rectangle 32.6e8f9ae790d2a57ab8dd.png",
+    "static/media/back.jpeg": "/devamanaly/Booking/static/media/back.e8fd40470c60e55c474b.jpeg",
+    "static/media/Rectangle 21.png": "/devamanaly/Booking/static/media/Rectangle 21.428626aeb9539fabae50.png",
+    "static/media/Rectangle 23.png": "/devamanaly/Booking/static/media/Rectangle 23.4b3548603619b4dc15f9.png",
+    "static/media/Rectangle 20.png": "/devamanaly/Booking/static/media/Rectangle 20.9c56adfb6d0a385c25c1.png",
+    "static/media/Rectangle 11.png": "/devamanaly/Booking/static/media/Rectangle 11.d2a93bb0589de7e7936d.png",
+    "static/media/1000_F_572631077_lTEMovDoboEEEkdiL4xHbWBez6BCmtED-removebg-preview 1.png": "/devamanaly/Booking/static/media/1000_F_572631077_lTEMovDoboEEEkdiL4xHbWBez6BCmtED-removebg-preview 1.de97bf9251c3865df7f0.png",
+    "static/media/images__1_-removebg-preview 1.png": "/devamanaly/Booking/static/media/images__1_-removebg-preview 1.9720b9da695ebd7acaa0.png",
+    "static/media/Rectangle 22.png": "/devamanaly/Booking/static/media/Rectangle 22.c2f72251e7153c3b7aa1.png",
+    "static/media/Rectangle 7.png": "/devamanaly/Booking/static/media/Rectangle 7.1fe112200c1a1f77ff71.png",
+    "static/media/Rectangle 10.png": "/devamanaly/Booking/static/media/Rectangle 10.7afc94626dbcd7c61052.png",
+    "static/media/Rectangle 8.png": "/devamanaly/Booking/static/media/Rectangle 8.3468fea33dd2d698bdf4.png",
+    "static/media/Rectangle 9.png": "/devamanaly/Booking/static/media/Rectangle 9.d662690a471cf0516a32.png",
+    "static/media/photo-1594450281353-5a7a067358cc-removebg-preview 1.png": "/devamanaly/Booking/static/media/photo-1594450281353-5a7a067358cc-removebg-preview 1.ac68dcd214edccd55205.png",
+    "index.html": "/devamanaly/Booking/index.html",
+    "main.b563514d.css.map": "/devamanaly/Booking/static/css/main.b563514d.css.map",
+    "main.fef18b46.js.map": "/devamanaly/Booking/static/js/main.fef18b46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b563514d.css",
+    "static/js/main.fef18b46.js"
+  ]
+}
